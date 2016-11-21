@@ -1,0 +1,106 @@
+[
+	{
+		"image": "img/CAmn.svg",
+		"answer": "Cadet Airman"
+	},
+	{
+		"image": "img/CA1C.svg",
+		"answer": "Cadet Airman First Class"
+	},
+	{
+		"image": "img/CSrA.svg",
+		"answer": "Cadet Senior Airman"
+	},
+	{
+		"image": "img/CSSgt.svg",
+		"answer": "Cadet Staff Sergeant"
+	},
+	{
+		"image": "img/CTSgt.svg",
+		"answer": "Cadet Technical Sergeant"
+	},
+	{
+		"image": "img/CMSgt.svg",
+		"answer": "Cadet Master Sergeant"
+	},
+	{
+		"image": "img/CSMSgt.svg",
+		"answer": "Cadet Senior Master Sergeant"
+	},
+	{
+		"image": "img/CCMSgt.svg",
+		"answer": "Cadet Chief Master Sergeant"
+	},
+	{
+		"image": "img/CSSgt.svg",
+		"answer": "Cadet Staff Sergeant"
+	},
+	{
+		"image": "img/C2Lt.svg",
+		"answer": "Cadet 2nd Lieutenant"
+	},
+	{
+		"image": "img/C1Lt.svg",
+		"answer": "Cadet 1st Lieutenant"
+	},
+	{
+		"image": "img/CCpt.svg",
+		"answer": "Cadet Captain"
+	},
+	{
+		"image": "img/US_-_CAP_Cadet_Major.png",
+		"answer": "Cadet Major"
+	},
+	{
+		"image": "img/US_-_CAP_Cadet_Lt_Col.png",
+		"answer": "Cadet Lieutenant Colonel"
+	},
+	{
+		"image": "img/US_-_CAP_Cadet_Colonel.png",
+		"answer": "Cadet Colonel"
+	},
+	{
+		"image": "img/CAP_FlightOfficer.svg",
+		"answer": "Flight Officer"
+	},
+	{
+		"image": "img/CAP_TechFlightOfficer.svg",
+		"answer": "Technical Flight Officer"
+	},
+	{
+		"image": "img/CAP_SeniorFlightOfficer.svg",
+		"answer": "Senior Flight Officer"
+	},
+	{
+		"image": "img/US-O1_insignia.svg",
+		"answer": "2nd Lieutenant"
+	},
+	{
+		"image": "img/US-O2_insignia.svg",
+		"answer": "First Lieutenant"
+	},
+	{
+		"image": "img/US-O3_insignia.svg",
+		"answer": "Captain"
+	},
+	{
+		"image": "img/US-O4_insignia.svg",
+		"answer": "Major"
+	},
+	{
+		"image": "img/US-O5_insignia.svg",
+		"answer": "Lieutenant Colonel"
+	},
+	{
+		"image": "img/US-O6_insignia.svg",
+		"answer": "Colonel"
+	},
+	{
+		"image": "img/US-O7_insignia.svg",
+		"answer": "Brigadier General"
+	},
+	{
+		"image": "img/US-O8_insignia.svg",
+		"answer": "Major General"
+	}
+]
