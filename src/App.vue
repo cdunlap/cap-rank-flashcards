@@ -30,8 +30,14 @@ export default {
     }
   },
   beforeMount () {
-    $.getJSON('/static/data.json', data => {
-      this.cardData = data
+    $.getJSON('static/data.json', data => {
+      this.cardData = data;
+
+      data.forEach(d => {
+        // Preload the image
+        const img = new Image();
+        img.src = d.image;
+      });
     });
   },
   methods: {
